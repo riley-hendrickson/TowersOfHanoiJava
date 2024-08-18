@@ -1,1 +1,1 @@
-# TowersOfHanoiJava
+Java-based implementation of a solution to the famous Towers of Hanoi puzzle that will output the lowest possible amount of moves to be made if one were to solve the puzzle with a user specified amount of disks. 
